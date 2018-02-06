@@ -11,5 +11,4 @@
 > > Nota: O nome do programa esta em espanhol, Colores significa logicamente Cores...
 
 
-
-![tela.png] (img_git/tela.png "tela.png")    
+![tela](https://user-images.githubusercontent.com/16761375/35890012-fd6009ce-0b84-11e8-8662-fb5be24c627e.png)  
