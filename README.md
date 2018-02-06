@@ -12,5 +12,5 @@
 
 
 
-![tela.png] (img_git/tela.png)     ![tela1.png] (img_git/tela1.png)
+![tela.png] (https://github.com/NicolasMCP/Colores/tree/master/img_git/tela.png)     ![tela1.png] (https://github.com/NicolasMCP/Colores/tree/master/img_git/tela1.png)
 
